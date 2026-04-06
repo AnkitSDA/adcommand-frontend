@@ -2,7 +2,7 @@
 // When you connect real Google Ads / Meta APIs in Phase 3,
 // only this file needs to change — not the UI pages.
 
-const BASE = "http://localhost:8000/api";
+const BASE = "https://adcommand-backend-1.onrender.com/api";
 
 async function get(url) {
   try {
